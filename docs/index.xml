@@ -6,7 +6,21 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Enrique Ibarra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://enriqueibarram.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://enriqueibarram.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi Ruta de Aprendizaje en Launch X</title>
+      <link>https://enriqueibarram.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://enriqueibarram.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>¡Hola!
+Quiero contarte un poco de lo que ha sido mi travesía, hasta ahora, en este curso de LaunchX.
+On Boarding:
+ GitHub Jupyter Notebooks Python  Condicionales Cadenas Operaciones Artiméticas Listas Estructuras de Control (While, For) Diccionarios Funciones Manejo de Errores    En esta etapa me gustó mucho la dinámica del contenido, y el acercamiento al lenguaje Python. Relativamente no hubo complicaciones.
+Front-End:
+ UX/UI Wireframe Documentación HTML  Etiquetas básicas Elementos compuestos Propiedades de etiquetas   CSS3  Selectores Colores Fondos Textos   JS  Funciones y Excepciones JS en el navegador (DOM) VUE VUEX Angular   Azure  En esta etapa me gustó aprender CSS, aunque no fue del todo sencillo (aún hay cosas que comprendo totalmente).</description>
+    </item>
+    
     <item>
       <title>La cultura en el desarrollo de software.</title>
       <link>https://enriqueibarram.github.io/my_launchx_blog/posts/intro/</link>
