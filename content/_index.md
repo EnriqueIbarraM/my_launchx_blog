@@ -10,13 +10,14 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas para este curso son:  
 
-- Aprender más allá de lo básico de Git y GitHub.  
-- Reforzar lo aprendido en Front-End, aplicándolo.  
-- Aprender mucho sobre Back-End.  
-- Ser un mejor programador.  
-- Mejorar mis habilidades de comunicación.
-- Aprender a hacer comunidad.
+- Aprender más allá de lo básico de Git y GitHub  
+- Reforzar lo aprendido en Front-End, aplicándolo  
+- Aprender mucho sobre Back-End  
+- Ser un mejor programador  
+- Mejorar mis habilidades de comunicación
+- Aprender a hacer comunidad
 
+Probando un cambio.  
 ¡Vámonos al Infinito y más allá!
 
 🚀
