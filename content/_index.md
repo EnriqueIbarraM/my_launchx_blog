@@ -8,7 +8,7 @@ Soy Ingeniero en Sistemas Computacionales y estoy aprendiendo Programación Fron
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.  
 
-Mis expectativas para este curso son:
+Mis expectativas para este curso son:  
 
 - Aprender más allá de lo básico de Git y GitHub.  
 - Reforzar lo aprendido en Front-End, aplicándolo.  
