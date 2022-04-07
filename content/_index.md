@@ -14,10 +14,10 @@ Mis expectativas para este curso son:
 - Reforzar lo aprendido en Front-End, aplicándolo  
 - Aprender mucho sobre Back-End  
 - Ser un mejor programador  
-- Mejorar mis habilidades de comunicación
-- Aprender a hacer comunidad
+- Mejorar mis habilidades de comunicación  
+- Aprender a hacer comunidad  
 
-Probando un cambio.  
+
 ¡Vámonos al Infinito y más allá!
 
 🚀
